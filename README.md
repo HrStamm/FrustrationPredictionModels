@@ -13,6 +13,7 @@ The project explores the use of machine learning models (Decision Tree and Artif
 
 - The **entire code** is available both as a Jupyter Notebook (`.ipynb`) and as a Python script (`.py`).
 - Both files are fully synchronized and contain identical code and analyses.
+- However, in the .ipynb file all the outputs can also be seen, where as in the .py only the raw code can be seen 
 
 ## Structure
 
